@@ -9,6 +9,7 @@ For details on how to download and get started with Symfony, see the
 
 What's inside?
 --------------
+no comments
 
 The Symfony Standard Edition is configured with the following defaults:
 
